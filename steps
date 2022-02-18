@@ -1,2 +1,9 @@
 switch on 
-open software vibsoft6.0 ( setting 20)  
+open software vibsoft6.0 ( setting 20)  set up click( setting~ FFT~ channels~ Frequency~ FFLines (12800)~ Domain~ FFT Analyzer~ vib-Refl
+twist 2 lights and loose handles Move the shelf to meet the laser
+switch on laser( right one ) FIX  sample~ adjust angle 
+onelinge genetor settings ( adjust volume) 
+software vibsoft 6.0   single shot 
+Auto scale ~ vib Pan (move graph) 
+switch off
+Export ASCll
